@@ -1,0 +1,59 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SevenSegment	KEYWORD1  SevenSegment
+HT16K33			KEYWORD1  ht16k33
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+writeDisplay		KEYWORD2
+writeColon			KEYWORD2
+clearDigits			KEYWORD2
+clearDigit			KEYWORD2
+drawDigit			KEYWORD2
+drawDot				KEYWORD2
+toggleDot			KEYWORD2
+writeColon			KEYWORD2
+drawColon			KEYWORD2
+toggleColon			KEYWORD2
+drawHyphen			KEYWORD2
+drawOver			KEYWORD2
+drawUnder			KEYWORD2
+drawLineUpper		KEYWORD2
+drawLineMiddle		KEYWORD2
+drawLineLower		KEYWORD2
+drawLines2			KEYWORD2
+drawLines3			KEYWORD2
+printNumber			KEYWORD2
+printTime			KEYWORD2
+
+begin				KEYWORD2
+setDisplayStatus	KEYWORD2
+setBlinkRate		KEYWORD2
+setBrightness		KEYWORD2
+clearDisplay		KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+displayDigits	LITERAL1
+displayOff		LITERAL1
+displayOn		LITERAL1
+minBrightness	LITERAL1
+maxBrightness	LITERAL1
+blink_Off		LITERAL1
+blink_2Hz		LITERAL1
+blink_1Hz		LITERAL1
+blink_0_5Hz		LITERAL1
